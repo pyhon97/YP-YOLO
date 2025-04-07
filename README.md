@@ -22,7 +22,7 @@ git clone https://github.com/python97/YP-YOLO.
 
 ```
 # Train yolov11
-yolo detect train data=PG-YOLO/dataset.yaml model=yolov11s.yaml epochs=150 imgsz=640
+yolo detect train model=yolov11s.yaml data=dataset.yaml  epochs=150 imgsz=640
 ```
 
 ## License
