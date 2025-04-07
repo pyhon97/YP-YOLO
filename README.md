@@ -6,7 +6,7 @@ This repository is built for:
 
 YP-YOLO dataset includes young peach fruits in different scenes.
 ## How to use
-To train a network on the YP-YOLO dataset make sure that you download the code first from [yolov11](https://github.com/ultralytics/ultralytics). And then clone this repository to yolov8 folder and  train a yolov11 network with the commands below.
+To train a network on the YP-YOLO dataset make sure that you download the code first from [yolov11](https://github.com/ultralytics/ultralytics). And then clone this repository to yolov11 folder and  train a yolov11 network with the commands below.
 
 ```
 # Clone yolov11 repo and install requirements.txt
